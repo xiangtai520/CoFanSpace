@@ -58,6 +58,19 @@ export const creators: Creator[] = [
     nameAliases: ['miti', '开心的米帝电池', '开心的米帝电池', 'kaixindemididianchi', 'midi', 'miti', 'MC_73250956'],
     emailAliases: ['3496766870@qq.com'],
   },
+  {
+    name: '大滑稽',
+    avatar: '',
+    username: 'huaji',
+    title: 'CoFan Space 特别开发者',
+    desc: '开发者，略懂Python，前后端相关开发，数码爱好者',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/uf-fipper' },
+      
+    ],
+    nameAliases: ['huaji', '大滑稽', '大滑稽', 'dahuaji', 'huaji'],
+    emailAliases: ['139687499@qq.com'],
+  },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator
