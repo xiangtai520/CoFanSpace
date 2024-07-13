@@ -45,6 +45,19 @@ export const creators: Creator[] = [
     nameAliases: ['lunati', '鲁纳提', '鲁纳提', 'lunti', 'lunati', 'lunati', 'LunatikConfort'],
     emailAliases: ['1410743049@qq.com'],
   },
+  {
+    name: '开心的米帝电池',
+    avatar: '',
+    username: 'midi',
+    title: 'CoFan Space 特别开发者',
+    desc: '开发者，专注于运行维护工程，资深前后端相关开发，数码爱好者',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/happymidi' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/MC_73250956' },
+    ],
+    nameAliases: ['miti', '开心的米帝电池', '开心的米帝电池', 'kaixindemididianchi', 'midi', 'miti', 'MC_73250956'],
+    emailAliases: ['3496766870@qq.com'],
+  },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator
