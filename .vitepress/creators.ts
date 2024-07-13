@@ -37,7 +37,7 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'lunati',
     title: 'CoFan Space 特别开发者',
-    desc: '开发者，专注于运行维护工程，前端相关开发，数码爱好者',
+    desc: '开发者，专注于运行维护工程，前后端相关开发，数码爱好者',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/yCySR7OTL9S' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/LunatikConfort' },
