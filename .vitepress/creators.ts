@@ -24,7 +24,7 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'xiangtai520',
     title: 'CoFan Space 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，前端，网站开发',
+    desc: '开发者，专注于基础设施维护，前端网站开发与创作，数码爱好者',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/xiangtai520' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/xiangtai_520' },
@@ -33,17 +33,17 @@ export const creators: Creator[] = [
     emailAliases: ['cofan365@qq.com'],
   },
   {
-    name: '絢香音',
+    name: '鲁纳提',
     avatar: '',
-    username: 'LittleSound',
-    title: 'CoFan Space 原始创作者',
-    desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
+    username: 'lunati',
+    title: 'CoFan Space 特别开发者',
+    desc: '开发者，专注于运行维护工程，前端相关开发，数码爱好者',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
+      { type: 'github', icon: 'github', link: 'https://github.com/yCySR7OTL9S' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/LunatikConfort' },
     ],
-    nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
-    emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
+    nameAliases: ['lunati', '鲁纳提', '鲁纳提', 'lunti', 'lunati', 'lunati', 'LunatikConfort'],
+    emailAliases: ['1410743049@qq.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
