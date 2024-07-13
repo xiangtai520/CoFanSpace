@@ -8,7 +8,7 @@ titleTemplate: 探索无限可能
 hero:
   name: g~Nj$3J2^
   text: 探索无限可能
-  tagline: 以"CoFan Space"为名，读作 Co-Fan-Space，融合了"Co"（合作）和 "Fan"（爱好者）以及 "Space"（空间），为数数码爱好者提供协作与共享的平台。
+  tagline: 以"CoFan Space"为名，读作 Co-Fan-Space，融合"Co"（合作）和 "Fan"（爱好者）及 "Space"（空间），为数码爱好者提供协作与共享的平台。
   image:
     src: /logo.svg
     alt: Vitest
