@@ -24,7 +24,7 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'xiangtai520',
     title: 'CoFan Space 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
+    desc: '开发者，专注于基础设施维护，数据分析，前端，网站开发',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/xiangtai520' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/xiangtai_520' },

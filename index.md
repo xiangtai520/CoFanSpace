@@ -8,20 +8,20 @@ titleTemplate: 探索无限可能
 hero:
   name: g~Nj$3J2^
   text: 探索无限可能
-  tagline: 以"CoFan Space"为名，读作 Co-Fan-Space，融合"Co"（合作）和 "Fan"（爱好者）及 "Space"（空间），为数码爱好者提供协作与共享的平台。
+  tagline: 以"CoFan Space"为名，读作 Co-Fan-Space，融合"Co"（合作）和"Fan"（爱好者）及"Space"（空间），为数码爱好者提供协作与共享的平台。
   image:
     src: /logo.svg
     alt: Vitest
   actions:
     - theme: brand
-      text: 开始吧
+      text: 开始
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
+      text: 立即上云
+      link: http://117.72.66.202:5212/
     - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      text: 社区讨论
+      link: https://txc.qq.com/products/648905
 
 features:
   - title: 多样的主题和内容
