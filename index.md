@@ -20,7 +20,7 @@ hero:
       text: 立即上云
       link: http://cloud.cofan.xyz/
     - theme: alt
-      text: 社区讨论
+      text: 官方社群
       link: https://img.picui.cn/free/2024/09/19/66ebacf018345.jpg
 
 features:
