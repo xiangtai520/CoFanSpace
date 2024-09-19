@@ -18,10 +18,10 @@ hero:
       link: /笔记/index
     - theme: alt
       text: 立即上云
-      link: http://117.72.66.202:5212/
+      link: http://cloud.cofan.xyz/
     - theme: alt
       text: 社区讨论
-      link: https://txc.qq.com/products/648905
+      link: https://img.picui.cn/free/2024/09/19/66ebacf018345.jpg
 
 features:
   - title: 多样的主题和内容
