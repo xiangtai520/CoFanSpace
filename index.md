@@ -18,7 +18,7 @@ hero:
       link: /笔记/index
     - theme: alt
       text: 立即上云
-      link: http://cloud.cofan.xyz/
+      link: http://117.72.66.202:5212/
     - theme: alt
       text: 官方社群
       link: https://img.picui.cn/free/2024/09/19/66ebacf018345.jpg
