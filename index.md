@@ -6,7 +6,7 @@ title: CoFan Space
 titleTemplate: 探索无限可能
 
 hero:
-  name: g~Nj$3J2^
+  name: CoFan Space
   text: 探索无限可能
   tagline: 以"CoFan Space"为名,融合了"Co"(合作)和"Fan"(爱好者)及"Space"(空间),为数码爱好者提供协作与共享的平台。
   image:
@@ -20,8 +20,8 @@ hero:
       text: 立即上云
       link: http://cloud.cofan.xyz/
     - theme: alt
-      text: 官方社群
-      link: https://img.picui.cn/free/2024/09/19/66ebacf018345.jpg
+      text: 官方社区
+      link: https://support.qq.com/products/648905
 
 features:
   - title: 多样的主题和内容
