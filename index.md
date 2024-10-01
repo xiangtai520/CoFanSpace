@@ -24,17 +24,17 @@ hero:
       link: https://support.qq.com/products/648905
 
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到各方面知识和内容，畅享知识库海洋。
-    icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
+  - title: 使用简单
+    details: CoFan Space易于使用，且支持在所有平台中使用
+    icon: ⚡
+  - title: 在线预览
+    details: 支持视频、音频、文档、PDF、图片预览等
     icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
+  - title: 由 Alist 驱动
+    details: 基于 Gin 和 Solidjs ，支持多个存储提供商，包括本地存储、阿里云盘、OneDrive、Google Drive等，且易于拓展。
     icon: 🚀
   - title: 遵循 CC BY-SA 4.0 协议
-    details: 严格遵守创作共用许可协议，我们会在含有参考其他文献或资料等的知识库中标注作者/来源等。
+    details: 网站严格遵守创作共用许可协议，我们会在含有参考其他文献或资料等的知识库中标注作者/来源等。
     icon: 📖
 ---
 
